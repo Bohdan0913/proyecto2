@@ -7,4 +7,4 @@
   <h2><p><b>Directorio Img:</b></h2> Aquí estara el logo de este examen, en formato PNG. </p>
   <h2><p><b>Directorio JS:</b></h2> Dentro veremos un fichero javascript y desenvolupará las funciones del examen de correcció sobre las preguntas.</p>
   <h2><p><b>Directorio XML:</b></h2> Hay un fichero xml que contiene las preguntas del examen con sus respectivas opciones y respuestas , también hay un archivo xsd para validar el archivo xml. </p>
-  <h2><p><b>Mimificación:</b></h2> Mimificación de los archivos CSS , HTML y XML con compresores online para su mejor optimización(esto irá en un branch llamado "mini")</p>
+  <h2><p><b>Mimificación:</b></h2> Mimificación de los archivos CSS , HTML y XML con compresores online para su mejor optimización(esto irá en un branch llamado "minify")</p>
