@@ -2,17 +2,17 @@
 <questions>
     <question id='1'>
         <type>text</type>
-        <text>¿de que color era el caballo blanco de Napoleon?</text>
+        <text>¿De que color era el caballo blanco de Napoleón?</text>
         <answer>blanco</answer>
     </question>
     <question id='2'>
         <type>text</type>
-        <text>¿Como se llama el primer metal descubierto por el hombre? </text>
+        <text>Cómo se llama el primer metal descubierto por el hombre?</text>
         <answer>cobre</answer>
     </question>
         <question id='3'>
         <type>select</type>
-        <text>¿Cuantos continentes existen en la tierra?</text>
+        <text>¿Cuántos continentes existen en la tierra?</text>
         <option>4</option>
         <option>6</option>
         <option>1</option>
@@ -30,7 +30,7 @@
     </question>
     <question id='5'>
         <type>multiple</type>
-        <text>¿En que isla murio Napoleon?</text>
+        <text>¿En que isla murió Napoleón?</text>
         <option>Malta</option>
         <option>Santa Elena</option>
         <option>Corsega</option>
@@ -39,7 +39,7 @@
     </question>
     <question id='6'>
         <type>multiple</type>
-        <text>¿En que año se descubrio Colon a America?</text>
+        <text>¿En que año se descubrio Colón a América?</text>
         <option>1764</option>
         <option>1746</option>
         <option>1492</option>
@@ -66,7 +66,7 @@
     </question>
         <question id='9'>
         <type>checkbox</type>
-        <text>¿Que idiomas son oficiales en Canadá?</text>
+        <text>¿Qué idiomas son oficiales en Canadá?</text>
         <option>Español</option>
         <option>Noruego</option>
         <option>Francés</option>
@@ -76,7 +76,7 @@
     </question>
     <question id='10'>
         <type>checkbox</type>
-        <text>¿Que paises de corea existen?</text>
+        <text>¿Qué "Coreas" existen?</text>
         <option>Corea del Norte</option>
         <option>Corea del Este</option>
         <option>Corea del Sur</option>
