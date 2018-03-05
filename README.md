@@ -1,10 +1,15 @@
 <h1>Examen de Autocorrección</h1>
-<a href="https://rawgit.com/jordanfast/proyecto2/master/examen.html">Haciendo Click aquí podrás hacer el examen.</a>
+<a href="https://rawgit.com/jordanfast/proyecto2/master/examen.html">Haciendo Click aquí podrás hacer el examen.</a><br>
 El examen consta de 10 preguntas :
+<br>
 - 2 preguntas de tipo text.
+<br>
 - 2 preguntas de tipo checkbox.
+<br>
 - 2 preguntas de tipo select.
+<br>
 - 2 preguntas de tipo radio.
+<br>
 - 2 preguntas de tipo multiple.
 <br>
 Las preguntas contestadas correctamente sumarán un punto y las contestadas incorrectamente no suma ni resta.
