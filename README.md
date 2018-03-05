@@ -1,5 +1,13 @@
 <h1>Examen de Autocorrección</h1>
 <a href="https://rawgit.com/jordanfast/proyecto2/master/examen.html">Haciendo Click aquí podrás hacer el examen.</a>
+El examen consta de 10 preguntas :
+- 2 preguntas de tipo text.
+- 2 preguntas de tipo checkbox.
+- 2 preguntas de tipo select.
+- 2 preguntas de tipo radio.
+- 2 preguntas de tipo multiple.
+<br>
+Las preguntas contestadas correctamente sumarán un punto y las contestadas incorrectamente no suma ni resta.
 <h2>Contenido del proyecto:</h2>
   <h2><p><b>Fichero index.html</b></h2> Página que contiene , titulo, logo, botón de corregir y ver la puntuación se activará cuando se presione el botón,enlace a información y lo mas importante las preguntas del examen. </p>
   <h2><p><b>Fichero about.html:</b></h2> Información respecto al examen , se ve el logo y además tiene un enlace que va directamente al examen.</p>
