@@ -1,5 +1,5 @@
 <h1>Examen de Autocorrección</h1>
-<a href="https://rawgit.com/jordanfast/proyecto2/master/examen.html">Haciendo Click aquí podrás hacer el examen.</a><br>
+<a href="https://rawgit.com/jordanfast/proyecto2/master/examen.html">Haciendo Click aquí podrás hacer el examen.</a><br><br>
 El examen consta de 10 preguntas :
 <br>
 - 2 preguntas de tipo text.
