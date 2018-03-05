@@ -82,7 +82,7 @@ function gestionarXml(dadesXml){
  
   //Pregunta TEXT 2
  var tituloSelect=xmlDoc.getElementById("2").getElementsByTagName("text")[0].childNodes[0].nodeValue;
-ponerDatostextHtml(tituloSelect); ) 
+ponerDatostextHtml(tituloSelect);
  text2=xmlDoc.getElementById('2').getElementsByTagName("answer")[0].childNodes[0].nodeValue;
  
 
